@@ -12,7 +12,7 @@ An interactive Power BI dashboard built using Indian Premier League (IPL) datase
 -> Build an interactive dashboard for quick insights.
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 -> Power BI – Dashboard creation & visualization.
 
@@ -23,7 +23,7 @@ An interactive Power BI dashboard built using Indian Premier League (IPL) datase
 -> DAX – Measures and calculated columns.
 
 
-📈 Key Features
+## 📈 Key Features
 
 -> Season-wise insights with filters & slicers.
 
@@ -34,7 +34,7 @@ An interactive Power BI dashboard built using Indian Premier League (IPL) datase
 -> Visual storytelling with dynamic charts.
 
 
-📂 Dataset
+## 📂 Dataset
 
 The dataset includes:
 
@@ -42,20 +42,24 @@ The dataset includes:
 
 -> Player performance (runs, wickets, total 4's, total 6's)
 
+-> Season summaries
 
-Season summaries
-
-(Dataset can be sourced from Kaggle / IPL official stats websites)
+-> Dataset can be sourced from Kaggle / IPL official stats websites
 
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 https://github.com/barikprasanjeet43-create/IPL-Dashboard/blob/main/IPL%20Dashboard.png
 
 
-📌 Key Insights
+## 📌 Key Insights
 
 1.Top run scorers and wicket takers by each season.
 
 2.Team-wise win  and consistency trends in point table.
 
 3.Season-wise patterns and performance highlights.
+
+
+## 📢 Conclusion
+
+This project showcases the power of data analytics and visualization in sports. It can help fans, analysts, and teams to better understand player performance and match dynamics.
