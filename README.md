@@ -47,8 +47,8 @@ The dataset includes:
 -> Dataset can be sourced from Kaggle / IPL official stats websites
 
 
-## 📊 Dashboard Preview
-https://github.com/barikprasanjeet43-create/IPL-Dashboard/blob/main/IPL%20Dashboard.png
+## 📊 Snapshots
+![dashboard preview](https://github.com/barikprasanjeet43-create/IPL-Dashboard/blob/main/IPL%20Dashboard.png)
 
 
 ## 📌 Key Insights
