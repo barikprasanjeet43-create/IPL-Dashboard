@@ -43,4 +43,12 @@ Season summaries
 (Dataset can be sourced from Kaggle / IPL official stats websites)
 
 📊 Dashboard Preview
+https://github.com/barikprasanjeet43-create/IPL-Dashboard/blob/main/IPL%20Dashboard.png
 
+📌 Key Insights
+
+Top run scorers and wicket takers by each season
+
+Team-wise win  and consistency trends in point table
+
+Season-wise patterns and performance highlights
